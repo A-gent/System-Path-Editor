@@ -1,2 +1,2 @@
 # System-Path-Editor
-And editor for the SYSTEM PATH Environment Variable in Windows
+Editor for the SYSTEM PATH Environment Variable in Windows
